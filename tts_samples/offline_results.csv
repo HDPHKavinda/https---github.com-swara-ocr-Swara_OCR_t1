@@ -1,0 +1,3 @@
+language,voice,status,file,duration_seconds,sample_rate_hz,channels,sample_width_bytes,file_bytes,synthesis_seconds
+en,en-us,ok,tts_samples/en_espeak.wav,5.42,22050,1,2,238928,0.034
+si,si,ok,tts_samples/si_espeak.wav,7.98,22050,1,2,351816,0.047

@@ -1,0 +1,3 @@
+language,text_source,selected_chars,tts_engine,voice,audio_file,transcript_file,audio_seconds,sample_rate_hz,channels,sample_width_bytes,tts_seconds
+en,en_ocr.txt,93,eSpeak NG 1.52.0,en-us,tts_samples/ocr_pipeline/en_preview_ocr_to_speech.wav,tts_samples/ocr_pipeline/en_preview_ocr.txt,5.73,22050,1,2,0.054
+sn,sn_ocr.txt,115,eSpeak NG 1.52.0,si,tts_samples/ocr_pipeline/sn_preview_ocr_to_speech.wav,tts_samples/ocr_pipeline/sn_preview_ocr.txt,8.2,22050,1,2,0.048

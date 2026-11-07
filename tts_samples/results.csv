@@ -1,0 +1,3 @@
+language,status,model,voice,seconds,audio_seconds,sample_rate_hz,channels,bytes,file
+en,failed: HTTP 403,gemini-3.8-flash-tts,Kore,1.38,,,,,
+si,failed: HTTP 403,gemini-3.8-flash-tts,Kore,0.77,,,,,

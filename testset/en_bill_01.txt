@@ -1,0 +1,18 @@
+Peppers
+Peppers
+Invoice
+0112 581 770
+Majestic City - Food Arcade
+Date/Time 29/10/2026 09:59:00
+Invoice ID 3/3/64776
+Quick
+Cashier Irangani
+Name Cash Customer
+Tel 00
+Item Price QTY Total
+Chicken Pizza
+500.00 2.0 1000.0
+Sub Total 1000.00
+Grand Total (RS) 1000.00
+Cash 1000.00
+Solution by zincat.net - +94777331066
